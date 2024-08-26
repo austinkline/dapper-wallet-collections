@@ -11,23 +11,23 @@
 			"key": "7b560c9a75bc0bd9f2921145b6a7e6b341b2adfcafe9870bcd455f61c74d10d1"
 		},
 		"testnet": {
-			"address": "0x6d9ae43184a7ad9f",
+			"address": "0xe4f4d5fcff8e1524",
 			"key": {
 				"type": "google-kms",
 				"index": 0,
 				"signatureAlgorithm": "ECDSA_P256",
 				"hashAlgorithm": "SHA2_256",
-				"resourceID": "projects/flowty-contracts/locations/global/keyRings/contracts/cryptoKeys/dapper-wallet-collections/cryptoKeyVersions/1"
+				"resourceID": "projects/flowty-test/locations/global/keyRings/flow/cryptoKeys/dapper-wallet-collections/cryptoKeyVersions/1"
 			}
 		},
 		"mainnet": {
-			"address": "0x42a54b4f70e7dc81",
+			"address": "0x662881e32a6728b5",
 			"key": {
 				"type": "google-kms",
 				"index": 0,
 				"signatureAlgorithm": "ECDSA_P256",
 				"hashAlgorithm": "SHA2_256",
-				"resourceID": "projects/flowty-contracts/locations/global/keyRings/contracts/cryptoKeys/dapper-wallet-collections-mainnet/cryptoKeyVersions/1"
+				"resourceID": "projects/flowty-prod/locations/global/keyRings/flow/cryptoKeys/dapper-wallet-collections/cryptoKeyVersions/1"
 			}
 		}
 	},
